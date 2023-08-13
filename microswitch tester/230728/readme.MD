@@ -1,6 +1,7 @@
 必要な部材一例
 
 7305 hotswapsocket
+
 pinheader 2211S-40G-774
 https://akizukidenshi.com/catalog/g/gC-02900/
 
